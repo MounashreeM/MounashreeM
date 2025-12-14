@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 🎓 BE – Information Science and Engineering  
 🚀 Passionate about Web Development & Machine Learning  
 
+<img align="right" alt="coding girl" width="400"
+src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif">
+
+
 <img align="right" alt="coding" width="380"
 src="https://user-images.githubusercontent.com/74038190/229232363-cfe4b07f-2615-4f87-9c38-e37600f8381a.gif">
 
