@@ -13,9 +13,6 @@
   Turning+Ideas+Into+Code" />
 </p>
 
-<img align="right" alt="coding girl" width="380"
-src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif">
-
 ---
 
 💻 **Frontend Java Developer**  
@@ -25,7 +22,7 @@ src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-
 ---
 
 ### 🔗 About Me
-- 🔭 Currently working on **Web ,Java projects & Ml projects**
+- 🔭 Currently working on **Web, Java & ML projects**
 - 🌱 Learning **React, Java Backend & Machine Learning**
 - 👩‍💻 Internship: **Rooman Technologies**
 - 📌 Portfolio: https://mounashreem.github.io/Portfolio/
@@ -43,11 +40,9 @@ src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-
 
 ### 🔥 GitHub Stats
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mounashreem&layout=compact&theme=tokyonight)
 
 ---
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="140"/>
@@ -67,10 +62,6 @@ src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-
   </a>
 </p>
 
-
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-  
