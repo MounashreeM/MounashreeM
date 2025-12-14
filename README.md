@@ -1,23 +1,5 @@
-
-
-<!--
-**MounashreeM/MounashreeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi 👋, I'm Mounashree M  
 
-<!-- Typing animation -->
 <p>
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code
@@ -31,17 +13,14 @@ Here are some ideas to get you started:
   Turning+Ideas+Into+Code" />
 </p>
 
-<!-- Coding girl GIF -->
-<img align="right" alt="coding girl" width="400"
+<img align="right" alt="coding girl" width="380"
 src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif">
 
+---
 
-💻 Frontend Java Developer  
-🎓 BE – Information Science and Engineering  
-🚀 Passionate about Web Development & Machine Learning  
-
-<img align="right" alt="coding" width="380"
-src="https://user-images.githubusercontent.com/74038190/229232363-cfe4b07f-2615-4f87-9c38-e37600f8381a.gif">
+💻 **Frontend Java Developer**  
+🎓 **BE – Information Science and Engineering**  
+🚀 **Passionate about Web Development & Machine Learning**
 
 ---
 
