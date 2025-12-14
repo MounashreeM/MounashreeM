@@ -49,9 +49,6 @@ src="https://user-images.githubusercontent.com/74038190/229232363-cfe4b07f-2615-
 
 ---
 
-### 🌐 Connect with Me
-- 🌍 Portfolio: https://mounashreem.github.io/Portfolio/
-- 💼 LinkedIn: https://www.linkedin.com/in/mounashreem-m-5a6089259/
 
 ## 🌐 Connect with Me
 
