@@ -53,7 +53,7 @@ src="https://user-images.githubusercontent.com/74038190/229232363-cfe4b07f-2615-
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href=" https://www.linkedin.com/in/mounashreem-m-5a6089259/">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/mounashreem-m-5a6089259>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/MounashreeM">
