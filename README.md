@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **MounashreeM/MounashreeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,5 +53,5 @@ src="https://user-images.githubusercontent.com/74038190/229232363-cfe4b07f-2615-
 
 ### 🌐 Connect with Me
 - 🌍 Portfolio: https://mounashreem.github.io/Portfolio/
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 💻 HackerRank: https://www.hackerrank.com/your-profile
+- 💼 LinkedIn: https://www.linkedin.com/in/mounashreem-m-5a6089259/
+  
