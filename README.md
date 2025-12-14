@@ -1,5 +1,8 @@
 ## Hi 👋, I'm Mounashree M  
 
+<img align="right" alt="Typing on laptop" width="380"
+src="https://user-images.githubusercontent.com/74038190/212750161-8b5c2b6f-7f4e-4c55-9f8b-1b0f3fbb9b64.gif">
+
 <p>
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code
