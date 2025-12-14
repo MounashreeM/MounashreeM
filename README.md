@@ -50,6 +50,10 @@ src="https://user-images.githubusercontent.com/74038190/229232363-cfe4b07f-2615-
 ---
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="140"/>
+</p>
+
 ## 🌐 Connect with Me
 
 <p align="center">
