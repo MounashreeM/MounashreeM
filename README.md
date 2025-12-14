@@ -42,7 +42,7 @@ src="https://user-images.githubusercontent.com/74038190/229232363-cfe4b07f-2615-
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mounashreem&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mounashreem&theme=tokyonight)
