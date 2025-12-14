@@ -52,4 +52,19 @@ src="https://user-images.githubusercontent.com/74038190/229232363-cfe4b07f-2615-
 ### 🌐 Connect with Me
 - 🌍 Portfolio: https://mounashreem.github.io/Portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/mounashreem-m-5a6089259/
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href=" https://www.linkedin.com/in/mounashreem-m-5a6089259/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/MounashreeM">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:ravimarigowda11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
   
