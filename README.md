@@ -26,7 +26,7 @@ src="https://user-images.githubusercontent.com/74038190/229232363-cfe4b07f-2615-
 ---
 
 ### 🔗 About Me
-- 🔭 Currently working on **Web & ML Projects**
+- 🔭 Currently working on **Web ,Java projects & Ml projects**
 - 🌱 Learning **React, Java Backend & Machine Learning**
 - 👩‍💻 Internship: **Rooman Technologies**
 - 📌 Portfolio: https://mounashreem.github.io/Portfolio/
